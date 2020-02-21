@@ -1,9 +1,11 @@
+/*BODY*/
 body{
   /* border: 10px solid white; */
   background-attachment: fixed;
   background-position-x: center;
   overflow-x: hidden;
 }
+/*LANDING PAGE*/
 .landingscene{
   background-image: url('../images/h_img.jpg');
   background-position: center center;
@@ -12,27 +14,20 @@ body{
   text-align: center;
   background-size: cover;
   padding-top: 300px;
-  
-
 }
-
 .landingheading{
   padding: 0px;
   margin: 5px;
 }
-
 #landingp{
   padding: 2px;
 }
-
 #logo{
   margin-top: 15px;
   margin-bottom: 25px ;
   width: 80px ;
   height:80px ;
-
 }
-
 .mouseclick{
   padding-top: 10% ;
   margin-top: 5%;
@@ -40,9 +35,8 @@ body{
 }
 #mouse{
   animation: bounce 2s infinite;
-  
 }
-
+/*ABOUTUS*/
 #aboutus{
   text-align: center;
   padding-bottom: 40px;
