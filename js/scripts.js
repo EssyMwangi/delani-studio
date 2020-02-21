@@ -1,4 +1,5 @@
 $(document).ready(function(){
+  //what we do//
   $(".design-icon").click(function(){
     $("#design-image").toggle();
     $('#design').toggle();
@@ -11,13 +12,13 @@ $(document).ready(function(){
     $("#product-image").toggle();
     $('#product-management').toggle();
   });
-
+  //portfolio//
   $("div.image-frame").hover(function(){
     
 
     $(".overlay1").show().addClass("mask flex-center rgba-red-strong");
     }); 
-
+  //contact us//
   $("#btn").click(function(){
 
     var name= $("#name").val();
