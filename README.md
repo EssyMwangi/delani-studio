@@ -6,7 +6,6 @@
 This weeks task is to implement everything I have learnt from Bootstrap and jQuery to recreate a landing page for a fictional studio.
 
 ---
-
 ## TECHNOLOGIES USED 
 * HTML
 * CSS
