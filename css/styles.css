@@ -42,7 +42,6 @@ body{
   padding-bottom: 40px;
   padding-top: 40px;
 }
-
 /*SERVICES*/
 #services{
   text-align: center;
@@ -130,7 +129,7 @@ input[type=text],input[type=email],#comment{
   margin-left: 25%;
   width: 50%;
 }
-
+/*FOOTER*/
 footer{
   text-align: center;
   padding-top: 35px;

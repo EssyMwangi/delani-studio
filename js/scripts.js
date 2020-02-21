@@ -14,21 +14,15 @@ $(document).ready(function(){
   });
   //portfolio//
   $("div.image-frame").hover(function(){
-    
-
     $(".overlay1").show().addClass("mask flex-center rgba-red-strong");
     }); 
   //contact us//
   $("#btn").click(function(){
-
     var name= $("#name").val();
     var email=$("#email").val();
     var message=$("#comment").val();
-
     alert("Thank you " + name + " for your feedback.You will receive an email shortly via " + email);
-
   });
-
 });
 
 
