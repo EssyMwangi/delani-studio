@@ -1,0 +1,163 @@
+body{
+  /* border: 10px solid white; */
+  background-attachment: fixed;
+  background-position-x: center;
+  overflow-x: hidden;
+}
+.landingscene{
+  background-image: url('../images/h_img.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  color: white;
+  text-align: center;
+  background-size: cover;
+  padding-top: 300px;
+  
+
+}
+
+.landingheading{
+  padding: 0px;
+  margin: 5px;
+}
+
+#landingp{
+  padding: 2px;
+}
+
+#logo{
+  margin-top: 15px;
+  margin-bottom: 25px ;
+  width: 80px ;
+  height:80px ;
+
+}
+
+.mouseclick{
+  padding-top: 10% ;
+  margin-top: 5%;
+  padding-bottom: 80px;
+}
+#mouse{
+  animation: bounce 2s infinite;
+  
+}
+
+#aboutus{
+  text-align: center;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+
+
+#services{
+  text-align: center;
+  background-image: url("../images/s_image.jpg");
+  color: white;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 18px;
+}
+
+#services{
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+#design,#development,#product-management{
+  display: none;
+}
+
+#whatwedoheading{
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.heading{
+  padding-top: 38px;
+  text-align: center;
+}
+.container-whatwedo{
+  text-align: center;
+}
+.portfolio{
+  padding-bottom: 40px; 
+  align-items: center;
+  align-content: center;
+  align-self: center;
+  padding: 0;
+  margin-left:18%;
+  margin-right: 16%; 
+}
+.portfolio.img{
+  padding-bottom: 10px;
+} 
+.col-md-3 img{
+  max-width: 100%;
+  max-height: 100%;
+} 
+.portfolio h2{ 
+  text-align: center;
+  padding-top:40px;
+  
+}
+
+.portfolio p{
+  padding: 0;
+  margin: 0;
+  
+}
+
+.overlay1{
+  padding: 30%;
+  display: none;
+}
+.container-contact{
+  background-image: url("../images/c_image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
+  text-align: center;
+  color: white;
+}
+input[type=text],input[type=email],#comment{
+  background: transparent;
+  color: white;
+  font-size: 20px;
+  
+}
+#name{
+  width: 25%;
+  margin-left: 25%;
+  margin-right: 25px;
+}
+#email{
+  width: 25%;
+  margin-left: 0%;
+}
+#comment{
+  margin-left: 25%;
+  width: 50%;
+}
+footer{
+  text-align: center;
+  padding-top: 35px;
+  
+}
+footer p{
+  margin-top: 15px;
+}
+.form-group{
+  padding-bottom: 20px;
+}
+.form-group1{
+  padding-bottom: 8%;
+}
+#btn{
+  padding-bottom: 10px;
+  margin-bottom: 30px;
+}
