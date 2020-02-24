@@ -16,7 +16,7 @@ This weeks task is to implement everything I have learnt from Bootstrap and jQue
 
 ---
 ### PROJECT SETUP INSTRUCTIONS
-The fictional studio called Delani Studio is run via a browser through this live link: <>
+The fictional studio called Delani Studio is run via a browser through this live link: < https://essymwangi.github.io/delani-studio/>
 
 ---
 
